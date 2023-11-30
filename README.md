@@ -1,7 +1,7 @@
 # VersionControl
 Testing Version Control
 
-This ia github repo for testing version control
+This is Github repo for testing version control
 
 # Miles write somthing here...
 
